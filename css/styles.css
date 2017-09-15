@@ -241,6 +241,14 @@ ol.toc > li {
 	padding: 2rem 0 1rem;
 	background-color: #FFFFFF;
 }
+.head th {
+	padding-left: .7rem;
+	padding-right: .7rem;
+}
+.head th.logo {
+	padding-left: 0;
+	padding-right: 4rem;
+}
 .footer {
 	flex: 1;
 	position: relative;
